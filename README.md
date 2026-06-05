@@ -132,10 +132,14 @@ FinClub/
 
 ## How to Run
 
-1. Open the notebook in Google Colab or Jupyter Notebook
-2. In **Cell 2**, update `TRAIN_URL`, `TEST3M_URL`, and `TEST_URL` with your Google Drive CSV links
-3. Run all cells sequentially
-4. Review calibration results, yield curve plots, and evaluation metrics
+How to Run
+
+1. Clone/download the repository.
+2. Ensure the data folder remains in the repository root.
+3. Open Finclub_PS1.ipynb.
+4. Run all cells sequentially.
+
+The notebook loads datasets from the data/ directory included in this repository.
 
 \---
 
