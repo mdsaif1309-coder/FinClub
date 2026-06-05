@@ -138,6 +138,7 @@ How to Run
 2. Ensure the data folder remains in the repository root.
 3. Open Finclub_PS1.ipynb.
 4. Run all cells sequentially.
+5. Or just click 'Open in Colab' on the top left of the "Finclub_PS1.ipynb" and run the cells sequentially.
 
 The notebook loads datasets from the data/ directory included in this repository.
 
